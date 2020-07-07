@@ -5,7 +5,7 @@ LCS=Longest Common Substring
 */
 
 import java.util.Scanner;
-public class LCSubstringTOP_DOWN
+public class LCSubsequenceTOP_DOWN
 {
 
     public static void main(String[] args)
